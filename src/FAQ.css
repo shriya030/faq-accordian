@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300;400&display=swap');
+
+* {
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.faqs {
+    padding: 50px;
+    padding-bottom: 20px;
+}
+.faqs > h2 {
+    color: hsl(237, 12%, 33%);
+    font-size: 28px;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+.faq-answer {
+    padding: 3px 0;
+    color: hsl(240, 6%, 50%);
+    font-size: 14px;
+    opacity: 0;
+    max-height: 0;
+    overflow-y: hidden;
+    transition: all 0.6s ease;
+}
+
+.divider {
+    height: 1px;
+    background-color: hsl(240, 5%, 91%);
+}
+
+.faq-open .faq-question {
+    font-weight: bold;
+    color: hsl(238, 29%, 16%);
+}
+
+
+.faq-question {
+    display: block;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+    padding: 15px 15px 15px 0;
+    color: hsl(237, 12%, 33%);
+    transition: all 0.6s ease;
+    position: relative;
+}
+.faq-question:hover {
+    color: hsl(14, 88%, 65%);
+}
+
+.faq-question > span {
+    float: right;
+    transform: translateY(-50%);
+    transition: all 0.8s ease;
+}
+
+.faq-open .faq-question span {
+    transform: translateY(-50%) rotate(180deg);
+}
+
+.faqs .faq-open .faq-answer {
+    opacity: 1;
+    max-height: 64px;
+    margin-bottom: 10px;
+}
+
