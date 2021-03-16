@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/faq-accordian/static/css/main.0636c575.chunk.css",
+    "main.js": "/faq-accordian/static/js/main.3e8275e5.chunk.js",
+    "main.js.map": "/faq-accordian/static/js/main.3e8275e5.chunk.js.map",
+    "runtime-main.js": "/faq-accordian/static/js/runtime-main.7ecef862.js",
+    "runtime-main.js.map": "/faq-accordian/static/js/runtime-main.7ecef862.js.map",
+    "static/js/2.8f981676.chunk.js": "/faq-accordian/static/js/2.8f981676.chunk.js",
+    "static/js/2.8f981676.chunk.js.map": "/faq-accordian/static/js/2.8f981676.chunk.js.map",
+    "static/js/3.d4dcbdc5.chunk.js": "/faq-accordian/static/js/3.d4dcbdc5.chunk.js",
+    "static/js/3.d4dcbdc5.chunk.js.map": "/faq-accordian/static/js/3.d4dcbdc5.chunk.js.map",
+    "index.html": "/faq-accordian/index.html",
+    "static/css/main.0636c575.chunk.css.map": "/faq-accordian/static/css/main.0636c575.chunk.css.map",
+    "static/js/2.8f981676.chunk.js.LICENSE.txt": "/faq-accordian/static/js/2.8f981676.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-desktop.f51e07a2.svg": "/faq-accordian/static/media/bg-pattern-desktop.f51e07a2.svg",
+    "static/media/bg-pattern-mobile.55aee912.svg": "/faq-accordian/static/media/bg-pattern-mobile.55aee912.svg",
+    "static/media/icon-arrow-down.852fa301.svg": "/faq-accordian/static/media/icon-arrow-down.852fa301.svg",
+    "static/media/illustration-box-desktop.ec1ba14b.svg": "/faq-accordian/static/media/illustration-box-desktop.ec1ba14b.svg",
+    "static/media/illustration-woman-online-desktop.843eb114.svg": "/faq-accordian/static/media/illustration-woman-online-desktop.843eb114.svg",
+    "static/media/illustration-woman-online-mobile.0ec5a893.svg": "/faq-accordian/static/media/illustration-woman-online-mobile.0ec5a893.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ecef862.js",
+    "static/js/2.8f981676.chunk.js",
+    "static/css/main.0636c575.chunk.css",
+    "static/js/main.3e8275e5.chunk.js"
+  ]
+}
